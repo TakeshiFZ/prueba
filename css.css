@@ -13,8 +13,8 @@
     background-color: rgb(0, 0, 0);
 }
 #img_img_prod{
-    width: auto / 10;
-    height: auto / 10;
+    width: 10%;
+    height: auto;
 }
 #img_prod{
     padding: 0px;
